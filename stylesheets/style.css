@@ -14,8 +14,6 @@ h1{
 h2{
   font-family: 'Pacifico', cursive;
   color: #DC143C;
-  font-size: 80px;
-  margin: 1px;
 }
 
 h3{
@@ -31,7 +29,6 @@ strong{
 }
 
 #container {
-  /*border-bottom: 1px solid black;*/
   padding: 5px 0px 20px 0px;
   width: 900px;
   height: 240px;
