@@ -1,6 +1,7 @@
 header{
   top: -100px;
   height: 30px;
+  left: 100px;
 }
 
 
@@ -51,7 +52,7 @@ strong{
 .contacttop{
   
   height: 100px;
-  left: 10px;
+  left: 100px;
   position: relative;
 }
 
