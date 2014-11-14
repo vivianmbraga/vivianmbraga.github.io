@@ -10,7 +10,19 @@ font-family: serif;
 margin: 0.5in;
 }
 
-a{
+a {
+  text decorator: none;
+}
+
+h1 {
+  text decorator: none;
+}
+
+h2 {
+  text decorator: none;
+}
+
+h3 {
   text decorator: none;
 }
 
