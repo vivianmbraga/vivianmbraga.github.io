@@ -1,6 +1,9 @@
 header,footer{
   height: 50px;
-  
+}
+
+header, section, footer {
+border: 2px solid #333;
 }
 
 body {
