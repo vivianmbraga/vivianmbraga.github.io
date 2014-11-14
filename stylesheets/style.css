@@ -1,5 +1,5 @@
 header{
-  top: -10px;
+  top: 0px;
   height: 50px;
 }
 
@@ -45,14 +45,14 @@ strong{
 }
 
 .name{
-  top: 1px;
+  top: -10px;
   height: 250px;
   left: 210px;
   position: relative;
 }
 
 .contacttop{
-  top: -15px;
+  top: 15px;
   height: 100px;
   left: 10px;
   position: relative;
