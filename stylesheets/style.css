@@ -35,14 +35,14 @@ strong{
 }
 
 .name{
-  
+  top: -200px;
   height: auto;
   left: 500;
   position: relative;
 }
 
 .contacttop{
-  
+  top: -15px;
   height: 100px;
   left: 200px;
   position: relative;
