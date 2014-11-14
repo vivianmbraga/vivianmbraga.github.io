@@ -43,8 +43,8 @@ strong{
   height: auto;
 }
 
-#name{
-  top: -270px;
+.name{
+  top: -70px;
   height: 250px;
   left: 210px;
   position: relative;
