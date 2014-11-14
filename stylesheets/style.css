@@ -32,17 +32,18 @@ strong{
   border-bottom: 1px solid black;
   padding: 5px 0px 20px 0px;
   width: 990px;
+  height: 240px;
 }
 
 .name{
   top: -270px;
-  height: auto;
-  left: 500;
+  height: 250px;
+  left: 210px;
   position: relative;
 }
 
 .contacttop{
- top: -15px
+  top: -15px;
   height: 100px;
   left: 10px;
   position: relative;
@@ -81,7 +82,6 @@ a:active {
 }
 
 main{
-  overflow: hidden;
   width: 1000px;
 }
 
@@ -94,6 +94,4 @@ img {
     border-style: solid;
     border-width: 3px;
     border-color: #000000;
-    width: 10%;
-    height:auto;
 }
