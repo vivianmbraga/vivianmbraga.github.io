@@ -52,6 +52,7 @@ strong{
 nav{
   font-family: 'Indie Flower', cursive;
   color: #FF69B4;
+  border-top: 1px solid black;
   border-bottom: 1px solid black;
   width: 1000px;
 }
