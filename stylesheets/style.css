@@ -1,11 +1,3 @@
-header,footer{
-  height: 50px;
-}
-
-header, section, footer {
-border: 2px solid #333;
-}
-
 body {
   background-color: #F5F5F5;
   color: black;
@@ -44,7 +36,7 @@ strong{
 }
 
 .name{
-  
+  top: 1px;
   height: 250px;
   left: 210px;
   position: relative;
