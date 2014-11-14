@@ -44,14 +44,14 @@ strong{
 }
 
 .name{
-  top: -15px;
-  height: 250px;
-  left: 210px;
+  
+  height: auto;
+  left: auto;
   position: relative;
 }
 
 .contacttop{
-  top: -55px;
+  top: -15px;
   height: 100px;
   left: 10px;
   position: relative;
