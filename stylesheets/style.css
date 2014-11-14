@@ -90,6 +90,7 @@ a:active {
 }
 
 main{
+  overflow: hidden;
   width: 1000px;
 }
 
