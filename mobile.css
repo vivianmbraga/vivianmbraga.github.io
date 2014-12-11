@@ -1,0 +1,17 @@
+@media (max-width: 320px) {
+
+  body {
+    background: none;
+    font-size: 24px;
+    max-width: 320px;
+  }
+
+  img.top {
+    width: 100%;
+  }
+
+  ul {
+    list-style-type: none;
+  }
+
+}

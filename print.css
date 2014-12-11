@@ -1,0 +1,38 @@
+*     {
+
+color: black;
+background: transparent;
+font-size: 12pt;
+font-family: serif;
+}
+
+@page {
+margin: 0.5in;
+}
+
+
+#container {
+    margin: 0;
+    width: 100%
+}
+
+section {
+    float: none;
+    width:100%
+}
+
+a{
+  text decorator: none;
+}
+
+img {
+    border-style: solid;
+    border-width: 3px;
+    border-color: #000000;
+}
+
+a[href$=".html"]{
+  display: none;
+}
+
+a[href^="http://"]:after, a[href^="https://"]: after {content: "(" attr(href) ")";}

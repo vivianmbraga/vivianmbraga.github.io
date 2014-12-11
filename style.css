@@ -1,0 +1,135 @@
+@import url(http://fonts.googleapis.com/css?family=Pacifico);
+@import url(http://fonts.googleapis.com/css?family=PT+Serif);
+
+body {
+  background-color: #FFFAF0;
+  color: black;
+  font-size: 20px;
+}
+
+#container {
+  position: absolute;
+  width: 99.9%;
+  top: 0px;
+  left: 0px;
+}
+
+.image {
+  position: relative;
+  top: 0px;
+  left: 0px;
+}
+
+img.top {
+  width: 100%;
+}
+
+img.portfolio {
+    border-style: solid;
+    border-width: 3px;
+    border-color: #000000;
+}
+
+nav {
+  width: 100%;
+  background: #ffffff;
+  border: 1px solid #ccc;
+  position: relative;
+  bottom: 7px;
+}
+
+nav ul {
+  overflow: hidden;
+  padding: 0;
+  margin: 0 auto;
+  border-left: 1px solid #ccc;
+}
+
+nav ul li {
+  list-style: none;
+  float: left;
+  text-align: center;
+  border-right: 1px solid #ccc;
+  width: 24.6667%;
+}
+
+nav ul li a {
+  display: inline-block;
+  text-decoration: none;
+  color: #616161;
+  padding: 10px 0;
+  width: 100%;
+}
+
+.aboutme {
+  position: relative;
+  width: 600px;
+  margin: 0 auto;
+}
+
+.contactme {
+  position: relative;
+  font-size: 17px;
+  line-height: 5px;
+}
+
+section {
+  border-bottom: 1px solid black;
+  margin-bottom: 5px;
+  position: relative;
+  top: 40px;
+  margin-left: 15px;
+}
+
+h1{
+  font-family: 'Pacifico', cursive;
+  color: #DC143C;
+  font-size: 45px;
+  margin: 1px;
+  text-align: center;
+}
+
+h2 {
+  font-family: 'Pacifico', cursive;
+  color: #DC143C;
+}
+
+p {
+    line-height: 25px;
+}
+
+strong {
+  color: #8B2252;
+}
+
+.portfolio {
+  position: relative;
+}
+
+.contacttop {
+  position: relative;
+}
+
+a {
+  font-family: 'PT Serif', cursive;
+  color: #DC143C;
+}
+
+a:visited {
+  font-family: 'PT Serif', cursive;
+  color: #FF69B4;
+}
+
+a:active {
+  font-family: 'PT Serif', cursive;
+  color: #FF69B4;
+}
+
+main {
+  position: relative;
+}
+
+.section1 {
+  position: relative;
+  left: 395px;
+}
