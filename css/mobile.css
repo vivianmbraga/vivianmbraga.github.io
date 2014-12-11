@@ -1,0 +1,146 @@
+
+  @media (min-width:320px;)
+{
+
+  .facet_sidebar {
+      display: none;
+    }
+
+
+  .body {
+  background-color: #FFFAF0;
+  color: black;
+  font-size: 20px;
+  padding: 0;
+  margin: 0;
+  }
+
+  img.top {
+  width: -100px;
+  height:59.5px;
+  }
+
+  .image {
+  width: -100px;
+  height:59.5px;
+  }
+
+  * {
+  Float: none;
+  }
+
+
+  img.portfolio {
+  border-style: solid;
+  border-width: 3px;
+  border-color: #000000;
+  }
+
+  div.container {
+  display: none;
+  }
+
+  .nav {
+  padding: 3px;
+  margin:0
+  background: #ffffff;
+  border: 1px solid #ccc;
+  position: relative;
+  bottom: 7px;
+  }
+
+  .nav ul {
+  overflow: hidden;
+  padding: 0;
+  margin: 0 auto;
+  border-left: 1px solid #ccc;
+  }
+
+  .nav ul li {
+  list-style: none;
+  float: left;
+  text-align: center;
+  border-right: 1px solid #ccc;
+  padding: 0.25em 0;
+  }
+
+  .nav ul li a {
+  display: inline-block;
+  text-decoration: none;
+  color: #616161;
+  padding: 10px 0;
+  }
+
+  .aboutme {
+  position: relative;
+  margin: 0 auto;
+  }
+
+  .contactme {
+  position: relative;
+  font-size: 17px;
+  line-height: 5px;
+  }
+
+  .section {
+  border-bottom: 1px solid black;
+  margin-bottom: 5px;
+  position: relative;
+  top: 40px;
+  }
+
+  h1{
+  font-family: 'Pacifico', cursive;
+  color: #DC143C;
+  text-align: center;
+  font-weight: normal;
+  }
+
+  h2 {
+  font-family: 'Pacifico', cursive;
+  color: #DC143C;
+  font-weight: normal;
+  }
+
+
+  p {
+  line-height: 25px;
+  }
+
+  strong {
+  color: #8B2252;
+  }
+
+  .portfolio {
+  position: relative;
+  }
+
+  .contacttop {
+  position: relative;
+  }
+
+  a {
+  font-family: 'PT Serif', cursive;
+  color: #DC143C;
+  }
+
+  a:visited {
+  font-family: 'PT Serif', cursive;
+  color: #FF69B4;
+  }
+
+  a:active {
+  font-family: 'PT Serif', cursive;
+  color: #FF69B4;
+  }
+
+  main {
+  position: relative;
+  }
+
+  .section1 {
+  position: relative;
+  left: 395px;
+  }
+
+  }

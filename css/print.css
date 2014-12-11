@@ -1,0 +1,73 @@
+  a{text-decoration:none;
+  }
+
+  a[href$=".html"]{
+  display: none;
+  color: #000000;
+  }
+
+  a[href^="http://"]{
+  display: inline;
+  color: #000000;
+  }
+
+  a[href^="http://"]:after { content:  "( "attr(href)")" ;
+  }
+
+  a{
+  font-color: #000000;
+  }
+
+  ul{
+  list-style:none;
+  }
+
+  .navbar {
+  display: none;
+  }
+
+  .image {
+  display: none;
+  }
+
+  li {
+  font-family: "Times New Roman", Georgia, Serif;
+  font-color: #000000;
+  }
+
+  h1{
+  color: #000000;
+  padding: 0px;
+  border-radius: 12pt;
+  text-decoration: none;
+  font-size: 45pt;
+  text-align: center;
+  font-family: "Times New Roman";
+  }
+
+  h2{
+  color: #000000;
+  font-size: 22pt;
+  margin: auto;
+  text-align:left;
+  padding-right: 18pt;
+  border-radius:12pt;
+  box-shadow: 12pt;
+  font-family: "Times New Roman";
+  }
+
+
+  p{
+  font-family: "Times New Roman";
+  font-size: 12pt;
+  font-color: #000000;
+  }
+
+  .href {
+  display: none;
+  }
+
+  @page {
+  margin: 0.5in;
+  }
+  
